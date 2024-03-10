@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "zapito2dom/static/css/main.45cd1fa6.chunk.css",
-    "main.js": "zapito2dom/static/js/main.206e0c0f.chunk.js",
-    "main.js.map": "zapito2dom/static/js/main.206e0c0f.chunk.js.map",
-    "runtime~main.js": "zapito2dom/static/js/runtime~main.ca0a8716.js",
-    "runtime~main.js.map": "zapito2dom/static/js/runtime~main.ca0a8716.js.map",
-    "static/js/2.7269a688.chunk.js": "zapito2dom/static/js/2.7269a688.chunk.js",
-    "static/js/2.7269a688.chunk.js.map": "zapito2dom/static/js/2.7269a688.chunk.js.map",
-    "static/js/3.f0ac7bee.chunk.js": "zapito2dom/static/js/3.f0ac7bee.chunk.js",
-    "static/js/3.f0ac7bee.chunk.js.map": "zapito2dom/static/js/3.f0ac7bee.chunk.js.map",
-    "index.html": "zapito2dom/index.html",
-    "precache-manifest.b8f887d9d02405404178b8261f1ebf15.js": "zapito2dom/precache-manifest.b8f887d9d02405404178b8261f1ebf15.js",
-    "service-worker.js": "zapito2dom/service-worker.js",
-    "static/css/main.45cd1fa6.chunk.css.map": "zapito2dom/static/css/main.45cd1fa6.chunk.css.map"
+    "main.css": "/zapito2dom/static/css/main.45cd1fa6.chunk.css",
+    "main.js": "/zapito2dom/static/js/main.206e0c0f.chunk.js",
+    "main.js.map": "/zapito2dom/static/js/main.206e0c0f.chunk.js.map",
+    "runtime~main.js": "/zapito2dom/static/js/runtime~main.e33968e7.js",
+    "runtime~main.js.map": "/zapito2dom/static/js/runtime~main.e33968e7.js.map",
+    "static/js/2.7269a688.chunk.js": "/zapito2dom/static/js/2.7269a688.chunk.js",
+    "static/js/2.7269a688.chunk.js.map": "/zapito2dom/static/js/2.7269a688.chunk.js.map",
+    "static/js/3.f0ac7bee.chunk.js": "/zapito2dom/static/js/3.f0ac7bee.chunk.js",
+    "static/js/3.f0ac7bee.chunk.js.map": "/zapito2dom/static/js/3.f0ac7bee.chunk.js.map",
+    "index.html": "/zapito2dom/index.html",
+    "precache-manifest.57050f4fa94dee335aab78512b7d0a8f.js": "/zapito2dom/precache-manifest.57050f4fa94dee335aab78512b7d0a8f.js",
+    "service-worker.js": "/zapito2dom/service-worker.js",
+    "static/css/main.45cd1fa6.chunk.css.map": "/zapito2dom/static/css/main.45cd1fa6.chunk.css.map"
   }
 }
